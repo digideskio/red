@@ -14,4 +14,5 @@ replaced with "after".
 
 ---
 
-Written by @gabebw and @jcmorrow
+Written by [@gabebw](https://twitter.com/gabebw) and
+[@jcmorrow](https://github.com/jcmorrow)
