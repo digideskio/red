@@ -11,3 +11,7 @@ replaced with "after".
  To try it out on the existing test file, just run:
 
     ./red.rb -e "s/foo/bar/" test.txt
+
+---
+
+Written by @gabebw and @jcmorrow
